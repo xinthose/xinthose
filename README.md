@@ -4,6 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)
 
+## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
 CSS          2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
