@@ -7,12 +7,12 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 18 March, 2021 - 25 March, 2021
+Week: 19 March, 2021 - 26 March, 2021
 
-CSS          2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
-TypeScript   2 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
-HTML         1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-JavaScript   1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Markdown     1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+TypeScript   5 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.83 % 
+HTML         4 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
+CSS          2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+JavaScript   2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Markdown     2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 <!--END_SECTION:waka-->
