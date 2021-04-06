@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2021 - 04 April, 2021
+Week: 29 March, 2021 - 05 April, 2021
 
 HTML         1 hr 54 mins    █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 C++          1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
