@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 05 April, 2021 - 12 April, 2021
 
 TypeScript   2 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
 C++          1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.25 % 
