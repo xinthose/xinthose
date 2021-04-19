@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2021 - 17 April, 2021
+Week: 11 April, 2021 - 18 April, 2021
 
 TypeScript   2 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
 Markdown     2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
