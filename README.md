@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
 SQL          38 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.95 % 
 Markdown     36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 % 
