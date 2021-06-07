@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2021 - 05 June, 2021
+Week: 30 May, 2021 - 06 June, 2021
 
 C++         1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
 HTML        1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
