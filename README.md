@@ -7,12 +7,12 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
+Week: 02 June, 2021 - 09 June, 2021
 
-C++         2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 % 
-Markdown    1 hr 31 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-HTML        1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-SQL         58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Batchfile   46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+C++          3 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Markdown     1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+HTML         1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Batchfile    46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 <!--END_SECTION:waka-->
