@@ -17,6 +17,7 @@ HTML         26 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+## Fun
 ![github contribution grid snake animation](https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
