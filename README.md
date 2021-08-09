@@ -7,7 +7,7 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 Markdown     1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.29 % 
 JavaScript   1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.41 % 
