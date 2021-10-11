@@ -7,13 +7,13 @@
 ## WakaTime Statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
-TypeScript   6 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
-C++          5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-HTML         4 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 % 
-Markdown     2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-JSON         1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+TypeScript   6 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.26 % 
+C++          5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+HTML         4 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
+Markdown     2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+JSON         1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 <!--END_SECTION:waka-->
 
