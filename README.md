@@ -21,5 +21,3 @@ JSON         1 hr 41 mins    █▓░░░░░░░░░░░░░░░
 ![github contribution grid snake animation](https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-<figure><embed src="https://wakatime.com/share/@xinthose/14415ab0-2f76-428f-a2da-34052e3158d1.svg"></embed></figure>
