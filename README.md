@@ -5,6 +5,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)
 
 ## WakaTime Statistics
+
+[![wakatime](https://wakatime.com/badge/user/82c377cd-a54c-404c-b7df-177b313ca539.svg)](https://wakatime.com/@82c377cd-a54c-404c-b7df-177b313ca539)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 06 October, 2021 - 12 October, 2021
