@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 October, 2021 - 29 October, 2021
+Week: 24 October, 2021 - 30 October, 2021
 
-C++          7 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.79 % 
-TypeScript   3 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Markdown     1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Bash         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-SQL          1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+C++          11 hrs 36 mins  ██████████████░░░░░░░░░░░   55.68 % 
+Markdown     2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Bash         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+TypeScript   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+SQL          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ```
 <!--END_SECTION:waka-->
 
