@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2021 - 31 October, 2021
+Week: 26 October, 2021 - 01 November, 2021
 
 C++          11 hrs 36 mins  ██████████████░░░░░░░░░░░   55.68 % 
 Markdown     2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
