@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
-C++          12 hrs 51 mins  ████████████░░░░░░░░░░░░░   48.24 % 
-HTML         4 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 % 
-TypeScript   3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Markdown     1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Makefile     1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+C++          9 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.54 % 
+TypeScript   7 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.99 % 
+HTML         6 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
+Markdown     1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+YAML         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 <!--END_SECTION:waka-->
 
