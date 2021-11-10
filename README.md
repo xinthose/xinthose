@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-C++          9 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.54 % 
-TypeScript   7 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.99 % 
-HTML         6 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
-Markdown     1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-YAML         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript   8 hrs 28 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 % 
+HTML         7 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.15 % 
+C++          7 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.88 % 
+Markdown     1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+YAML         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 <!--END_SECTION:waka-->
 
