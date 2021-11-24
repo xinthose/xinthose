@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2021 - 22 November, 2021
+Week: 17 November, 2021 - 23 November, 2021
 
-Markdown     4 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.77 % 
-JavaScript   4 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-TypeScript   3 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
-C++          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Batchfile    27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript   4 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   35.50 % 
+Markdown     4 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.70 % 
+TypeScript   1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+C++          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
