@@ -9,13 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2021 - 25 November, 2021
-
-Markdown     2 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.25 % 
-JavaScript   2 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.46 % 
-TypeScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-C++          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-C#           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
