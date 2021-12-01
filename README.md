@@ -9,7 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 November, 2021 - 30 November, 2021
+
+Markdown     17 mins         ████████████▓░░░░░░░░░░░░   51.19 % 
+Arduino      16 mins         ████████████░░░░░░░░░░░░░   48.06 % 
 ```
 <!--END_SECTION:waka-->
 
