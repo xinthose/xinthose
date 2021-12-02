@@ -9,10 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Markdown     17 mins         ████████████▓░░░░░░░░░░░░   51.19 % 
-Arduino      16 mins         ████████████░░░░░░░░░░░░░   48.06 % 
+JSON         27 mins         ████████▓░░░░░░░░░░░░░░░░   35.12 % 
+Markdown     18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Arduino      16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+TypeScript   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.33 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
 
