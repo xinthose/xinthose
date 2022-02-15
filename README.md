@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-TypeScript   7 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.10 % 
-JavaScript   6 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-HTML         2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Markdown     1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-SQL          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+TypeScript   7 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.53 % 
+JavaScript   6 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.24 % 
+Markdown     2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+HTML         2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+SQL          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 <!--END_SECTION:waka-->
 
