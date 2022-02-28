@@ -8,15 +8,18 @@
 ## Languages Used
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-TypeScript   3 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 % 
-HTML         1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-CSS          1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown     1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JavaScript   59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+TypeScript   3 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   36.73 %
+HTML         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+JavaScript   52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Markdown     49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+CSS          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+JSON         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)
