@@ -10,11 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-C#           6 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 %
-TypeScript   6 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-Other        2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+TypeScript   6 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
+C#           3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+Markdown     2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Other        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
