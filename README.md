@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 18 April 2022
+From: 12 April 2022 - To: 19 April 2022
 
-TypeScript   2 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.59 %
-SQL          2 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-HTML         1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Markdown     49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-JSON         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-JavaScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+TypeScript   3 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+HTML         2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+SQL          2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+JSON         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Markdown     1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+JavaScript   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
