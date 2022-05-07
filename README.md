@@ -10,11 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-TypeScript   9 hrs 38 mins   ████████████████░░░░░░░░░   63.92 %
-Markdown     1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TypeScript   5 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.82 %
+Markdown     2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
+C++          1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Python       1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+SQL          51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Other        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 ```
 
 <!--END_SECTION:waka-->
