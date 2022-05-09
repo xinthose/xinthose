@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 TypeScript   6 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   39.00 %
 Markdown     2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
