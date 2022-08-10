@@ -8,6 +8,7 @@
 
 ## Languages Used
 
+### [WakaTime](https://wakatime.com/)
 <!--START_SECTION:waka-->
 
 ```text
@@ -23,7 +24,7 @@ Bash         1 hr 23 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose&count_private=true)
 
 ## Fun
 ![github contribution grid snake animation](https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg)
