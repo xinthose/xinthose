@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
+From: 04 August 2022 - To: 11 August 2022
 
-Python       10 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-TypeScript   9 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
-Markdown     3 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-C++          2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-HTML         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Bash         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+TypeScript   11 hrs 11 mins  █████████░░░░░░░░░░░░░░░░   35.61 %
+Python       6 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+Markdown     3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+HTML         2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+C++          1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Bash         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
