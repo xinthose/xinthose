@@ -11,12 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-TypeScript   5 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.56 %
-C++          2 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Markdown     1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Other        1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+TypeScript   5 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   31.30 %
+Markdown     2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+C++          2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+SQL          1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+CSV          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
