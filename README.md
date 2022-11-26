@@ -11,13 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
-
-SQL          43 mins         ███████████▓░░░░░░░░░░░░░   47.10 %
-Markdown     27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-C++          13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-TypeScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
