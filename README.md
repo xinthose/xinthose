@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
 TypeScript   3 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   27.96 %
 Markdown     3 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
