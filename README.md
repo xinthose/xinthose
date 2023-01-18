@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 January 2023 - To: 16 January 2023
+From: 10 January 2023 - To: 17 January 2023
 
-C++          7 hrs 32 mins   █████████████▒░░░░░░░░░░░   53.22 %
-Markdown     2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-TypeScript   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-YAML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Makefile     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+C++          7 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
+HTML         2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Markdown     2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+TypeScript   1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Makefile     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+YAML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
