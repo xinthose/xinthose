@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 January 2023 - To: 21 January 2023
+From: 15 January 2023 - To: 22 January 2023
 
-C++          4 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-TypeScript   4 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-HTML         3 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-Markdown     2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-JSON         1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-SQL          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+TypeScript   6 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   28.35 %
+C++          4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+HTML         3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+Markdown     2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+JSON         1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+SQL          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
