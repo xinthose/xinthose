@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-TypeScript   5 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.07 %
-Markdown     4 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
-SQL          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Bash         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-YAML         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+TypeScript   9 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.05 %
+Markdown     4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+HTML         1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+SQL          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Bash         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
