@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-C++          3 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-HTML         3 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Markdown     3 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-TypeScript   2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-C#           2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-JavaScript   1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+HTML         4 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+C++          3 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+TypeScript   3 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Markdown     2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+C#           1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+JavaScript   1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
