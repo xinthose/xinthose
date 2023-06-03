@@ -9,14 +9,14 @@
 ### [WakaTime](https://wakatime.com/)
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-TypeScript   5 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.51 %
-HTML         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-SQL          59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Markdown     58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-JavaScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Python       1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+HTML         1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Markdown     1 hr 28 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+TypeScript   1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+SQL          57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 ```
 
 <!--END_SECTION:waka-->
