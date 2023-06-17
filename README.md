@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-Markdown     3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-TypeScript   3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-Batchfile    2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-JavaScript   1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Bash         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+TypeScript   3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Markdown     2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+JavaScript   1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+C++          1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Bash         1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 ```
 
 <!--END_SECTION:waka-->
