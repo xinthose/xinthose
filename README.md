@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
 Batchfile      2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
 HTML           1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
