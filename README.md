@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
 C#             4 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.27 %
 TypeScript     3 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
