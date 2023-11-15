@@ -32,6 +32,7 @@ C#           49 mins         █▒░░░░░░░░░░░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<br />
 <em>
   Generated with [Platane/snk](https://github.com/Platane/snk)
 </em>
