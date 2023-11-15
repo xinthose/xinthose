@@ -34,5 +34,8 @@ C#           49 mins         █▒░░░░░░░░░░░░░░░
 </picture>
 <br />
 <em>
-  Generated with [Platane/snk](https://github.com/Platane/snk)
+  Generated with
+  <a href="https://github.com/Platane/snk">
+    Platane/snk
+  <a/>
 </em>
