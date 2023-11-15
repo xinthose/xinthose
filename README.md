@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/82c377cd-a54c-404c-b7df-177b313ca539.svg)](https://wakatime.com/@82c377cd-a54c-404c-b7df-177b313ca539)
 [![github](https://img.shields.io/github/followers/xinthose?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xinthose&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=xinthose)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true&theme=radical&count_private=true)
 
