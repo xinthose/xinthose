@@ -2,7 +2,7 @@
 [![github](https://img.shields.io/github/followers/xinthose?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 ![](https://komarev.com/ghpvc/?username=xinthose)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true&theme=radical&count_private=true)
+[![My Public Repository GitHub stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages Used
 
