@@ -2,11 +2,8 @@
 [![github](https://img.shields.io/github/followers/xinthose?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 ![](https://komarev.com/ghpvc/?username=xinthose)
 
-[![My Public Repository GitHub stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages Used
-
-### [WakaTime](https://wakatime.com/)
+## [WakaTime](https://wakatime.com/) Languages Used
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,9 +18,10 @@ C#           49 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Github
+## Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun
 
