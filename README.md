@@ -21,7 +21,7 @@ C#           49 mins         █▒░░░░░░░░░░░░░░░
 ## Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinthose)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true&custom_title=Public Repository Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xinthose&show_icons=true&custom_title=Public%20Repository%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fun
 
