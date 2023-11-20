@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-TypeScript   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-Markdown     58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-HTML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-JavaScript   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-C#           27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+C++          2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+TypeScript   2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Markdown     1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+JavaScript   1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+SQL          51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
 ```
 
 <!--END_SECTION:waka-->
