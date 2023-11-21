@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2023 - To: 18 November 2023
+From: 12 November 2023 - To: 19 November 2023
 
 C++          2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.95 %
 TypeScript   2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.90 %
