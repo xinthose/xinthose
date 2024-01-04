@@ -7,11 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-JSON         0 secs          ████████████████████████░   96.61 %
-TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript   1 hr 5 mins     ███████████▓░░░░░░░░░░░░░   46.76 %
+Markdown     28 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+C++          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
