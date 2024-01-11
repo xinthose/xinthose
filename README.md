@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-TypeScript   6 hrs 22 mins   ████████████▒░░░░░░░░░░░░   48.93 %
-C++          2 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Markdown     1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-HTML         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-JSON         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+TypeScript   8 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.82 %
+C++          2 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+HTML         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Markdown     1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
