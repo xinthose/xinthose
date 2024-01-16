@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
 TypeScript   7 hrs 47 mins   ████████████▒░░░░░░░░░░░░   49.13 %
 C++          2 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
