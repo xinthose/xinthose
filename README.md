@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
-JavaScript   3 mins          █████████████████████░░░░   84.33 %
-Python       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JavaScript   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
