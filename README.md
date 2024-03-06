@@ -1,18 +1,5 @@
-[![wakatime](https://wakatime.com/badge/user/82c377cd-a54c-404c-b7df-177b313ca539.svg)](https://wakatime.com/@82c377cd-a54c-404c-b7df-177b313ca539)
 [![github](https://img.shields.io/github/followers/xinthose?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 ![](https://komarev.com/ghpvc/?username=xinthose)
-
-
-## [WakaTime](https://wakatime.com/) Languages Used
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 February 2024 - To: 04 March 2024
-
-Other   8 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ## Public Repository Statistics 
 
